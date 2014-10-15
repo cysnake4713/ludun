@@ -1,3 +1,6 @@
-[submodule "base_override"]
-	path = base_override
+[submodule "addons/base_override"]
+	path = addons/base_override
+	url = https://github.com/cysnake4713/base_override.git
+[submodule "addons/addons/base_override"]
+	path = addons/addons/base_override
 	url = https://github.com/cysnake4713/base_override.git
